@@ -169,6 +169,315 @@ propuestas por Docente.
 Mantener una actitud 
 receptiva y participativa.
 
+Datos vs. Información.
+Actividades del Procesamiento de datos.
+
+dato
+ETIMOLOGÍA: 
+
+Proviene del latín 
+
+“datum”
+
+Que significa dado, proporcionado.
+Con ello se refiere 
+el hecho de proporcionar algo
+
+Datos son los hechos que describen 
+sucesos y entidades. 
+
+"Datos" es una palabra en plural 
+que se refiere a más de un hecho. 
+
+Los datos son comunicados por varios tipos de símbolos 
+tales como las letras del alfabeto, 
+números, movimientos de labios, 
+puntos y rayas, 
+señales con la mano, dibujos, etc.
+
+Los datos se caracterizan 
+por no contener ninguna información. 
+
+Un dato puede representar una cantidad, 
+una medida, una palabra 
+o una descripción
+
+Los datos inicialmente eran conservados y transmitidos 
+en soportes como piedra, 
+madera y papel, 
+entre otros; en la actualidad es posible encontrarlos 
+en medios electrónicos 
+(internet, fax, correo electrónicos, etc.), 
+magnéticos(disco duros) y ópticos (cd, dvd, discos blu-ray).
+
+dato en informatica
+
+Es un elemento aislado, 
+recabado para un cierto fin, 
+pero que no ha pasado por un 
+proceso que lo interrelacione 
+con otros de manera funcional 
+para el fin previsto.
+
+
+Los datos son la base del conocimiento. 
+En un primer momento éstos funcionan 
+como imputs (entradas), 
+luego tienen un procesamiento, 
+y finalmente, salen (output) 
+como información.
+
+Los datos proporcionan 
+segmentos de información, 
+características de los objetos.
+
+Los datos son utilizados 
+en la ingeniería para proporcionar 
+características de los archivos.
+
+Los datos funcionan 
+como una información mínima
+
+Ingreso de datos de un cliente para solicitar una TC.
+Nombres y Apellidos
+Domicilio
+Empresa en la que labora
+Ingresos mensuales
+Situación laboral
+Otros negocios propios
+Tarjetas en otras entidades
+
+Se tienen varios datos sobre:
+productos, 
+empresas, 
+categoría de actividades, 
+profesiones, 
+servicios, 
+anuncios publicitarios, 
+guía de calles por planos, 
+teléfonos de emergencia, 
+direcciones, 
+agenda de eventos culturales, 
+información cultural.
+
+La palabra 
+“información” 
+Parece conformarse 
+de dos partes: 
+“in” – “formatio”. 
+
+El prefijo “in” indica dirección hacia dentro. 
+Generar algo hacia adentro, 
+algo que proviene desde afuera.
+
+En latín “formatio” se refiere 
+a la acción de formar 
+o de dar forma, 
+de generar algo.
+
+Información es un conjunto de datos 
+significativos y pertinentes 
+que describan sucesos o entidades.
+
+Los datos deben constar de símbolos reconocibles, 
+estar completos y 
+expresar una idea no ambigua.
+
+Solo los hechos relacionados 
+con las necesidades de información 
+son pertinentes
+
+Constituye un mensaje 
+que cambia el estado de 
+conocimiento del sujeto 
+o sistema que recibe dicho mensaje.
+
+Se trata del conjunto de datos, 
+añadidos, procesados y relacionados, 
+de manera que nos pueden dar pauta 
+a la correcta toma de decisiones, 
+según el fin previsto
+
+En general la información 
+tiene una estructura interna 
+y puede ser calificada 
+según varias características
+
+informacion = importancia,significado,vigencia,validez,valor
+
+Usos de la Información:
+Aumentar/mejorar el conocimiento del usuario.
+
+Proporcionar a quien toma decisiones 
+la materia prima fundamental 
+para el desarrollo de soluciones 
+y la elección.
+
+Proporcionar una serie de reglas 
+de evaluación y reglas de decisión 
+para fines de control
+
+Por si sólo no representan 
+significado alguno.
+
+Nos da las pautas correctas 
+para la toma de decisiones.
+
+Veamos un ejemplo para comprenderlo:
+Una empresa de Contac Center 
+llamada "Credit Position", 
+
+tiene como negocio principal, 
+la promoción de  tarjetas de crédito 
+del "Banco Banamundis" vía telefónica, 
+
+cuenta con la infraestructura necesaria, 
+que le permite poder contactar 
+a posibles clientes y algunos elementos, 
+tales como los siguientes:
+
+Nombre completo del prospecto,
+teléfono fijo, 
+teléfono para recados, 
+teléfono celular, 
+dirección de residencia, 
+número de registro fiscal.
+
+Veamos otro ejemplo:
+Se ingresan en un sistema de proyección de lluvias, 
+la cantidad de lluvia 
+que cayó en la ciudad de Guayaquil 
+en Octubre del 2013. 
+
+estos datos ingresados 
+alimentan al sistema 
+por medio de procedimientos 
+que capturan y validad esos datos 
+y se almacenan en una base de datos.
+
+Una vez almacenados estos datos 
+se pueden procesar de tal manera 
+que nos produzca información. 
+
+Dentro del sistema podremos 
+ver la cantidad de lluvia 
+de un periodo dado, 
+
+proyección de precipitaciones 
+para un periodo de acuerdo 
+con el ingreso de los datos 
+de los últimos 20 años, etc. 
+
+tipo de datos 
+simples
+compuestos
+
+datos simple
+
+Es indivisible no se puede descomponer. 
+Sin estructura.
+
+Datos Numéricos: Son aquellos que representan una cantidad o valor determinado.
+Numérico Entero y Numérico Real
+
+Datos Alfanuméricos: Representan información textual. No tienen valor alguno para efectos numéricos.
+Carácter y cadena de caracter
+
+Datos Lógicos: Es aquel dato que sólo puede tomar uno de dos valores Falso o Verdadero.
+Booleno
+
+tipo de dato compuesto
+
+Son conjuntos de partidas 
+de datos simples 
+
+con relaciones definidas 
+entre ellos. 
+Estructurados.
+
+Arreglos: una colección de datos de un tamaño o longitud fija.
+Array
+
+Registros: su tamaño y longitud es variable 
+de acuerdo al registro que esté apuntando.
+
+ejercicio
+
+Cuál es la función de la información?
+La información permite resolver problemas 
+y tomar decisiones, 
+ya que su aprovechamiento racional 
+es la base del conocimiento
+
+Investigue cuales son los atributos de la información.
+
+
+Investigue la relación de los conceptos 
+de Sistemas de Información 
+con la aplicación de los conceptos 
+de Enfoque de Sistemas.
+
+Atributos de la Información. 
+
+
+Algunos atributos claramente 
+identificables en la información, son :
+
+Finalidad, define el objetivo que busca la información, 
+si este no esta presente 
+o no es claro, se tiene solamente datos.
+
+Modo y formato, Es la forma como se recibe 
+la información, el ser humano se 
+comunica por medios sensoriales, 
+en informática existe una gran 
+variedad de formatos, según el recurso 
+o las máquinas involucradas.
+
+Redundancia, hace referencia al exceso de información 
+por unidad de datos, pues si existe mucha información 
+referente puede crear confusión, 
+lo que resulta nocivo para la toma de decisiones.
+
+Eficiencia, Es lo contrario a la redundancia, 
+donde hay información en menor cantidad 
+y mayor calidad para referenciar una situación.
+
+Velocidad, referencia la facilidad en el tiempo, 
+de asimilar la información transmitida.
+
+Frecuencia, La periodicidad en la entrega 
+de la información puede incidir en su calidad. 
+Es importante recibirla a tiempo 
+pero evitando excesiva frecuencia 
+que convierta la información al nivel de datos.
+
+
+Costo, El acceso y 
+la adquisición de la información, 
+conlleva costos normalmente cuantificables.
+
+
+Valor, En gran parte la información 
+es intangible y difícil de evaluar 
+cualitativa y cuantitativamente, 
+este atributo, determina la medida 
+o el nivel de utilidad que puede aportar.
+
+
+Confiabilidad, Es la credibilidad, 
+determinada por la seriedad 
+de la fuente o origen.
+
+
+Exactitud, Determina la desviación 
+con respecto a un valoración real.
+
+Validez, Define la aplicabilidad especifica 
+de una información en un caso particular.
+
+
+
 
 
 
