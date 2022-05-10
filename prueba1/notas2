@@ -1,1 +1,37 @@
 
+
+local comida rapida
+
+problemas
+
+1 vandedor : poca : rapidez : causa : malestar : cliente: cocinero
+
+2 cocinero : poca : organizacion : provoca : disgustos : clientes
+
+3 contador : poco : manejo : desorden : malos : calculos : demasiada : inconsistencia
+
+soluciones
+
+1 Para comenzar en el problema número uno se implementará 
+un sistema de inventario que   le   mantenga   contados   
+todos   sus   productos  mediante   un   stock,   
+para   que   así mantenga el orden 
+y se pueda saber cuándo reponer un producto 
+que su stock ya se encuentra muy limitado
+
+
+2 En   segundo   lugar,   para   el   siguiente   
+problema  se   implementará   un   sistema   de contabilidad,  
+el cual mientras se realice cada venta 
+este lo registrará coomo producto vendido 
+y registra el monto que se efectúa en cada compra 
+y el usuario podrá llevar un orden 
+en lo vendido y el total de ventas
+
+3 Y en el tercer y último problema 
+se realizará un sistema de autoservicio del cliente, 
+para que cuando el cliente solicite 
+y cancele su pedido se genere una boleta automática 
+que ira detallado el pedido que se debe realizar, 
+esto agilizaría las ventas dellocal
+
