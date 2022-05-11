@@ -1,84 +1,81 @@
-Un colegio particular, 
-del barrio alto de Santiago, 
-tiene un alto nivel de ingresos por 
-conceptos de colegiaturas de sus alumnos
+Un colegio particular, del barrio alto de Santiago, 
+tiene un alto nivel de ingresos por conceptos de colegiaturas de sus alumnos, 
 
 
-, las cuales se generan y se cargan a los estados de cuenta 
-de los apoderados los meses de marzo de cada año. 
+las cuales se generan y se cargan a los estados de cuenta de los apoderados 
+los meses de marzo de cada año. 
 
 
-El valor de la colegiatura es ingresado en UF, 
-y tiene un equivalente aproximado de $1.700.000.- anual, 
+El valor de la colegiatura es ingresado en UF, y tiene un equivalente aproximado de $1.700.000.- anual,
 
 los que pueden ser pagados en 10 cuotas de $170.000.- cada una.
 
-El colegio para efectos de generación de Colegiatura cuenta con un proceso  
-que genera dichas colegiaturas (mensualidades);  
 
-los pagos de las mensualidades se van ingresando en “caja” por el departamento de cobranzas, 
+El colegio para efectos de generación de Colegiatura cuenta con un proceso  
+
+que genera dichas colegiaturas (mensualidades);  los pagos de las mensualidades 
+
+se van ingresando en “caja” por el departamento de cobranzas, 
 
 que registra el pago hecho por los apoderados o por familias 
-(un apoderado, con más de un hijo en el colegio, a quienes se les hace una rebaja), 
 
-pero hoy en día, si bien los apoderados pagan sus mensualidades 
-el colegio no tiene automatizados 
+(un apoderado, con más de un hijo en el colegio, a quienes se les hace una rebaja)
 
-el rebaje de la colegiatura respecto de las mensualidades, 
+pero hoy en día, si bien los apoderados pagan sus mensualidades el colegio 
+no tiene automatizados el rebaje de la colegiatura respecto de las mensualidades, 
 
-lo que genera graves problemas 
-al momento de saber cuáles son las colegiaturas 
-que no están efectivamente pagadas 
+lo que genera graves problemas al momento de saber cuáles son las colegiaturas 
+que no están efectivamente pagadas y 
 
-y cuáles de ellas se han cancelado con documentos a fecha (cheques a fecha).
+cuáles de ellas se han cancelado con documentos 
+a fecha (cheques a fecha).
+
 
 A pesar de tener un software administrativo, 
 
-esto es, un software para el ingreso de los alumnos 
+esto es, un software 
+para el ingreso de los alumnos 
 y otro para el departamento de cobranzas, 
+
 
 al momento de la matrícula, luego de ingresado el o los alumnos, 
 se debe llevar el registro y pagarés firmados al departamento de Cobranzas, 
 
-en el cual deben digitar los datos entregados generando 
-las cuotas o formas de pago convenidas por los sostenedores de los alumnos.
+en el cual deben digitar los datos entregados 
+generando las cuotas o formas de pago convenidas por los sostenedores de los alumnos.
 
 
-Por otra parte, existe un proceso manual que se hace en forma posterior 
-que es la conciliación bancaria, 
+Por otra parte, existe un proceso manual 
+que se hace en forma posterior que es la conciliación bancaria, 
 
-en donde se debe cotejar los movimientos ingresados 
-en el departamento de cobranzas y compararlos 
+en donde se debe cotejar los movimientos ingresados en el departamento de cobranzas 
+y compararlos contra la cartola bancaria para determinar, 
 
-contra la cartola bancaria para determinar, por ejemplo, documentos no cobrados, 
-documentos protestados, o depósitos no realizados. 
+por ejemplo, documentos no cobrados, documentos protestados, o depósitos no realizados. 
 
-Esto implica una falta de control en el proceso de pagos efectivos de las colegiaturas.
-El Colegio está implementando estrategias para poder competir 
-con otros colegios similares en el barrio alto de Santiago, 
+Esto implica una falta de control en el
+
+proceso de pagos efectivos de las colegiaturas.
 
 
+El Colegio está implementando estrategias 
+
+para poder competir con otros colegios similares en el barrio alto de Santiago, 
 y están abriendo nuevas áreas de negocios, 
-pero al momento de decidir en que pueden invertir 
-se encuentran con que no tienen información necesaria 
 
-para saber cuál es la condición financiera de la institución 
+pero al momento de decidir en que pueden invertir se encuentran 
+con que no tienen información necesaria para saber cuál es la condición financiera 
+de la institución
+
+
 y en consecuencia les impide tomar una decisión estratégica oportuna, 
-
 respecto de los nuevos negocios.
-El dueño del colegio ve que tiene una necesidad urgente de implementar 
-un sistema de información integrado que controle en línea todos los ingresos, pagos, documentos pendientes de cobro, etc.
-
-Ha preguntado a su encargado de TI si cuentan con computadores, 
-red y servidores suficientes 
-para comprar, implementar o 
-desarrollar un software que cumpla sus requerimientos. 
-
-Este indica que se tienen los computadores y la red,
-pero falta el servidor 
-y un gestor de base de datos.
 
 
-El encargado de TI postula que no es necesario comprar un software, 
-dado que se puede automatizar los procesos con planillas Excel de uso compartido.
+El dueño del colegio ve que tiene una necesidad urgente de implementar un sistema de información 
+integrado que controle en línea todos los ingresos, pagos, documentos pendientes de cobro, etc.
 
+Ha preguntado a su encargado de TI si cuentan con computadores, red y servidores suficientes para comprar, implementar o desarrollar un software que cumpla sus requerimientos. Este indica que se tienen los computadores y la red, pero falta el servidor y un gestor de base de datos.
+El encargado de TI postula que no es necesario comprar un software, dado que se puede automatizar los procesos con planillas Excel de uso compartido.
+Los funcionarios por otra parte ven imperiosa la necesidad de un apoyo informático, pero se muestran ajenos a emitir opinión respecto de cuál sería la mejor alternativa, pero están dispuestos a apoyar la implementación de la decisión que tome el dueño.
+Finalmente el dueño del colegio insiste y decidió implementar un software, pero no sabe decidir si comprar o desarrollar un software a medida.
