@@ -1,0 +1,90 @@
+30-09-2022
+
+descomponer por niveles
+diagrama de contexto novel 0
+
+nivel 0 :
+
+cliente  pedido  sistema libro   compra   editor
+        ______>                  ______>
+        
+nivel 1 :
+agregar almacenes
+                            
+                       sistema libro
+
+cliente pedido -> validar       enviar      -> editor
+                  pedido        nececidades
+         estado credito            1pedido_valido   2pedido_lote     
+             almacen c clientes  almacen pedidos pendientes
+             
+             
+nivel 2 detalle o expansion
+
+1
+validar pedido
+
+1.1
+verificar estado cliente
+c clientes
+
+flecha
+
+1.2
+verificar existencia de libros
+c pedidos
+
+a libros
+
+base de datos
+
+muchos a muchos
+
+
+sistema de ventas
+
+sistema de ventas java
+
+nivel 0 
+nivel 1
+nivel 2
+modelo entidad relacion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
